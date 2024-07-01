@@ -1,2 +1,3 @@
 # Two_Clocks
 This is a program that displays 2 clocks in both 12 hour and 24 hour format
+This program solves many people's issues when it comes to reading a 24 hour format clock, otherwise known as military time.  This program is easy to read, as it is nicely commented and thoughts are well organized.  The decision branches are easy to read, and cover all possible outcomes.  The trickiest part of this program was developing the method called "starbox", as it is my display of the two clocks, and spacing it out to make it look nice was my most time consuming part of the error checking.  This program was my first program written in C++, and it taught me the syntax and organization needed to make readable code, for others to view, and use.
